@@ -32,10 +32,5 @@ The **Library Management System** is a console-based C++ application that manage
 
 ---
 
-## 🚀 Future Improvements
-- Support for saving/loading data from files (persistent storage).
-- Add validation for invalid borrow/return operations.
-- Extend search functionality (by author, full title match).
 
----
 
